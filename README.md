@@ -10,7 +10,7 @@ I am a dedicated IT student with a strong interest in cybersecurity, focusing on
 - 🎓 **Education**: 6th Semester IT Student, Punjab, Pakistan
 - 🔒 Passionate about protecting sensitive data and building secure applications
 - 💡 Actively learning ethical hacking, Linux, and real-world security practices
-- 📍 Based in Islamabad, Pakistan
+- 📍 Based in Punjab, Pakistan
 
 ---
 
