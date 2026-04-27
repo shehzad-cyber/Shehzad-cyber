@@ -22,13 +22,10 @@ Here are my key certifications:
   [View Certificate](link-to-full-certificate-if-you-have)
 
 - **Computer Applications** (Word, PowerPoint, Excel)  
-  ![Computer Applications Certificate](link-to-image)
+ https://github.com/shehzad-cyber/Shehzad-cyber/blob/b85a67e1fb76ce4b68729525348d08c2be27c60b/computer-applications.jpeg
 
 - **Adobe Illustrator**  
-  ![Adobe Illustrator Certificate](link-to-image)
-
-*(Note: Apne certificate images ko pehle repo mein "certificates" folder bana kar upload kar. Phir links update kar dena. Clickable banane ke liye image pe hyperlink laga sakte hain.)*
-
+https://github.com/shehzad-cyber/Shehzad-cyber/blob/b85a67e1fb76ce4b68729525348d08c2be27c60b/adobe-illustrator.jpeg
 ---
 
 ## Cybersecurity Journey
