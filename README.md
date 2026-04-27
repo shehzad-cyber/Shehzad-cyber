@@ -18,7 +18,7 @@ I am a dedicated IT student with a strong interest in cybersecurity, focusing on
 Here are my key certifications:
 
 - **Google Technical Support Fundamentals** (Coursera)  
-  ![Google IT Support](link-to-your-google-certificate-image)  
+  https://github.com/shehzad-cyber/Shehzad-cyber/blob/65e0f93376c7613fe0ec231a590312cc6395a599/google-it-support.jpeg  
   [View Certificate](link-to-full-certificate-if-you-have)
 
 - **Computer Applications** (Word, PowerPoint, Excel)  
