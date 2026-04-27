@@ -21,7 +21,7 @@ Here are my key certifications:
 [![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-4285F4?style=flat&logo=google&logoColor=white)](https://github.com/shehzad-cyber/Shehzad-cyber/blob/main/certificates/google-it-support.jpg)
 
 ### Computer Applications (Word, PowerPoint, Excel)
-[![Computer Applications](https://img.shields.io/badge/Computer%20Applications-0078D4?style=flat&logo=microsoft&logoColor=white)](https://github.com/shehzad-cyber/Shehzad-cyber/blob/main/certificates/computer-applications.jpg)
+[![Computer Applications](https://img.shields.io/badge/Computer%20Applications-0078D4?style=flat&logo=microsoft&logoColor=white)]https://github.com/shehzad-cyber/Shehzad-cyber/blob/b85a67e1fb76ce4b68729525348d08c2be27c60b/computer-applications.jpeg
 
 ### Adobe Illustrator
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF0000?style=flat&logo=adobe&logoColor=white)](https://github.com/shehzad-cyber/Shehzad-cyber/blob/main/certificates/adobe-illustrator.jpg)
