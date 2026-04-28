@@ -1,4 +1,4 @@
-# Hi there, I'm NAWAB 👋
+# Hi there, I'm SHEHZAD 👋
 
 **6th Semester IT Student | Aspiring Cybersecurity Professional**
 
